@@ -1,4 +1,4 @@
-# How to install Tomcat app server on Linux platform with Azure Powershell DSC
+# How to install Tomcat app server on Linux platform with Azure Powershell DSC - Watch the Video
 
 1.You can use PS1 - powershell DSC script to demo <br>
 2.Adhoc command - sudo /opt/microsoft/dsc/Scripts/PerformRequiredConfigurationChecks.py <br>
